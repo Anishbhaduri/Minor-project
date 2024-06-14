@@ -1,2 +1,3 @@
-# Minor-project
-Try to make a survey form
+# Minor-project using HTML, CSS, JS
+
+
